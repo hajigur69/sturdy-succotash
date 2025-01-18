@@ -1,4 +1,4 @@
-name: CI
+name: ACTIONS
 on: [push, pull_request]
 
 jobs:
